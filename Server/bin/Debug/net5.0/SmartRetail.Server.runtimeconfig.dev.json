@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\spiderock\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\spiderock\\.nuget\\packages"
+    ]
+  }
+}

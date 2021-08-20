@@ -1,0 +1,41 @@
+﻿@inherits LayoutComponentBase
+
+@* <div class="page">
+    <div class="sidebar">
+    <NavMenu />
+    </div>
+
+    <div class="main">
+    <div class="top-row px-4">
+    <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
+    </div>
+
+    <div class="content px-4">
+    @Body
+    </div>
+    </div>
+    </div> *@
+
+<head>
+
+</head>
+
+<body class="hold-transition sidebar-mini layout-fixed">
+    <div class="wrapper">
+
+        <NavMenu />
+
+        <SideBar />
+
+        @Body
+
+        <Footer />
+
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark">
+            <!-- Control sidebar content goes here -->
+        </aside>
+        <!-- /.control-sidebar -->
+
+    </div>
+</body>
