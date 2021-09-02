@@ -2,7 +2,7 @@
 
 ## Gallery
 
-![screenshot](Shared\public\img\2021-09-02_151324.png)
+![screenshot](Shared/public/img/2021-09-02_151324.png)
 
 ## Credits
 
