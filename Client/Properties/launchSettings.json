@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "SmartRetail": {
+    "BoilerPlate": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

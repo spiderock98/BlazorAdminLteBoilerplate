@@ -4,11 +4,11 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>SmartRetail</title>
+    <title>BoilerPlate</title>
     <base href="/" />
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/app.css" rel="stylesheet" />
-    <link href="SmartRetail.Client.styles.css" rel="stylesheet" />
+    <link href="BoilerPlate.Client.styles.css" rel="stylesheet" />
     <link href="manifest.json" rel="manifest" />
     <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
 
@@ -45,11 +45,56 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
+
+    <!-- Check and notify new app version updated -->
+    <style>
+        .new-version-toast {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            background-color: darkturquoise;
+            padding: 10px;
+            margin: 10px 30px;
+            box-shadow: 9px 5px 5px grey;
+            position: absolute;
+            bottom: 0px;
+            width: 400px;
+        }
+    </style>
+    <script>
+        const bc = new BroadcastChannel('blazor-channel');
+        bc.onmessage = function (message) {
+            if (message && message.data == "new-version-found") {
+                console.info("A new version was found");
+
+                let label = document.createElement("label");
+                label.textContent = "A new version was found";
+
+                let updateButton = document.createElement("button");
+                updateButton.textContent = "Reload now";
+                updateButton.addEventListener('click', () => {
+                    console.log("Updating to new version");
+                    bc.postMessage("skip-waiting");
+                });
+
+                let newVersionToast = document.createElement("div");
+                newVersionToast.className = "new-version-toast";
+                newVersionToast.appendChild(label);
+                newVersionToast.appendChild(updateButton);
+
+                document.getElementsByTagName("body")[0].appendChild(newVersionToast);
+            } else if (message && message.data == "reload-page") {
+                console.info("Reloading page");
+                window.location.href = window.location.href
+            }
+        }
+    </script>
+
     <script>
         navigator.serviceWorker.register("service-worker.js");
     </script>
 
-    <!-- Customize -->
+    <!-- Customize Scripts -->
     <!-- jQuery -->
     <script src="AdminLte/plugins/jquery/jquery.min.js"></script>
     <!-- jQuery UI 1.11.4 -->
@@ -78,12 +123,11 @@
     <script src="AdminLte/plugins/summernote/summernote-bs4.min.js"></script>
     <!-- overlayScrollbars -->
     <script src="AdminLte/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+
+    <!-- Custom Interop -->
+    <script src="scripts/interop.js"></script>
     <!-- AdminLTE App -->
     <script src="AdminLte/dist/js/adminlte.js"></script>
-    <!-- AdminLTE for demo purposes -->
-    <script src="AdminLte/dist/js/demo.js"></script>
-    <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-    <script src="AdminLte/dist/js/pages/dashboard.js"></script>
 </body>
 
 </html>

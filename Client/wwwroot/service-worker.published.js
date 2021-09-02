@@ -6,10 +6,26 @@ self.addEventListener('install', event => event.waitUntil(onInstall(event)));
 self.addEventListener('activate', event => event.waitUntil(onActivate(event)));
 self.addEventListener('fetch', event => event.respondWith(onFetch(event)));
 
+const CACHE_VERSION = '2021.08.31.000'  // Increment each time before deployment.
 const cacheNamePrefix = 'offline-cache-';
-const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
+//const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
+const cacheName = `${cacheNamePrefix}${CACHE_VERSION}`;
 const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.css$/, /\.woff$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
 const offlineAssetsExclude = [ /^service-worker\.js$/ ];
+
+const notifyNewVersion = () => {
+    const bc = new BroadcastChannel('blazor-channel');
+
+    bc.postMessage('new-version-found');
+
+    bc.onmessage = function (message) {
+        if (message && message.data == "skip-waiting") {
+            console.info("Calling skipWaiting");
+            self.skipWaiting();
+            bc.postMessage("reload-page");
+        }
+    }
+}
 
 async function onInstall(event) {
     console.info('Service worker: Install');
@@ -20,6 +36,8 @@ async function onInstall(event) {
         .filter(asset => !offlineAssetsExclude.some(pattern => pattern.test(asset.url)))
         .map(asset => new Request(asset.url, { integrity: asset.hash }));
     await caches.open(cacheName).then(cache => cache.addAll(assetsRequests));
+
+    notifyNewVersion();
 }
 
 async function onActivate(event) {

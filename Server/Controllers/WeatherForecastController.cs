@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SmartRetail.Shared;
+using BoilerPlate.Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SmartRetail.Server.Controllers
+namespace BoilerPlate.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SmartRetail.Shared
+namespace BoilerPlate.Shared
 {
     public class WeatherForecast
     {

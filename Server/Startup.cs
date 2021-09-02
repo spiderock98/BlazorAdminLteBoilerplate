@@ -6,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
 
-namespace SmartRetail.Server
+namespace BoilerPlate.Server
 {
     public class Startup
     {

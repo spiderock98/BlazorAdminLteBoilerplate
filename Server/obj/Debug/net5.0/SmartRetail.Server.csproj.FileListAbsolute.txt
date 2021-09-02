@@ -1,60 +1,120 @@
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Client.StaticWebAssets.xml
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\appsettings.json
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Server.StaticWebAssets.xml
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Server.exe
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Server.deps.json
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Server.runtimeconfig.json
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Server.runtimeconfig.dev.json
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Server.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\ref\SmartRetail.Server.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Server.pdb
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Server.Views.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Server.Views.pdb
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Client.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Shared.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Client.pdb
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\bin\Debug\net5.0\SmartRetail.Shared.pdb
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.csproj.AssemblyReference.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.AssemblyInfoInputs.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.AssemblyInfo.cs
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.csproj.CoreCompileInputs.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.RazorAssemblyInfo.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.RazorAssemblyInfo.cs
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\staticwebassets\SmartRetail.Server.StaticWebAssets.Manifest.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\staticwebassets\SmartRetail.Server.StaticWebAssets.xml
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\scopedcss\bundle\SmartRetail.Server.styles.css
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.TagHelpers.input.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.TagHelpers.output.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.RazorCoreGenerate.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.RazorTargetAssemblyInfo.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.RazorTargetAssemblyInfo.cs
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.Views.pdb
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.csproj.CopyComplete
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\ref\SmartRetail.Server.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.pdb
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Server\obj\Debug\net5.0\SmartRetail.Server.genruntimeconfig.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Client.StaticWebAssets.xml
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Server.StaticWebAssets.xml
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Server.exe
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Server.deps.json
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Server.runtimeconfig.json
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Server.runtimeconfig.dev.json
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Server.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\ref\BoilerPlate.Server.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Server.pdb
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Server.Views.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Server.Views.pdb
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Client.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Shared.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Client.pdb
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\bin\Debug\net5.0\BoilerPlate.Shared.pdb
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.csproj.AssemblyReference.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.AssemblyInfoInputs.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.AssemblyInfo.cs
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.csproj.CoreCompileInputs.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorAssemblyInfo.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorAssemblyInfo.cs
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\staticwebassets\BoilerPlate.Server.StaticWebAssets.Manifest.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\staticwebassets\BoilerPlate.Server.StaticWebAssets.xml
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\scopedcss\bundle\BoilerPlate.Server.styles.css
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.TagHelpers.input.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.TagHelpers.output.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorCoreGenerate.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorTargetAssemblyInfo.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorTargetAssemblyInfo.cs
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.Views.pdb
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.csproj.CopyComplete
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\ref\BoilerPlate.Server.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.pdb
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Server\obj\Debug\net5.0\BoilerPlate.Server.genruntimeconfig.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\appsettings.Development.json
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\appsettings.json
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Client.StaticWebAssets.xml
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Server.StaticWebAssets.xml
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Server.exe
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Server.deps.json
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Server.runtimeconfig.json
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Server.runtimeconfig.dev.json
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Server.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\ref\BoilerPlate.Server.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Server.pdb
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Server.Views.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Server.Views.pdb
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Client.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Shared.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Client.pdb
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\bin\Debug\net5.0\BoilerPlate.Shared.pdb
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.csproj.AssemblyReference.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.AssemblyInfoInputs.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.AssemblyInfo.cs
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.csproj.CoreCompileInputs.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorAssemblyInfo.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorAssemblyInfo.cs
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\staticwebassets\BoilerPlate.Server.StaticWebAssets.Manifest.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\staticwebassets\BoilerPlate.Server.StaticWebAssets.xml
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\scopedcss\bundle\BoilerPlate.Server.styles.css
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.TagHelpers.input.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.TagHelpers.output.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorCoreGenerate.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorTargetAssemblyInfo.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.RazorTargetAssemblyInfo.cs
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.Views.pdb
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.csproj.CopyComplete
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\ref\BoilerPlate.Server.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.pdb
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Server\obj\Debug\net5.0\BoilerPlate.Server.genruntimeconfig.cache

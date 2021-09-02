@@ -2,7 +2,7 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": true,
-  "entryAssembly": "SmartRetail.Client",
+  "entryAssembly": "BoilerPlate.Client",
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -195,13 +195,13 @@
       "mscorlib.dll": "sha256-9AZ7YsJz\/p2gr4E0EQXdHBqwDxoXqtzxhqC6aRsa2K8=",
       "netstandard.dll": "sha256-yOOty6BTX3e57YAEHK5a4nku\/lj0vi7jg\/eQZAjbDQk=",
       "System.Private.CoreLib.dll": "sha256-rraBQp6NevIQiELPVfDFDl5pv9QVJqCiZhB5bkpiZ88=",
-      "SmartRetail.Shared.dll": "sha256-GSRvDp+Fv6SgZGCaGrCUBFtwx45CDZGDiFGf7Ou3Ppw=",
-      "SmartRetail.Client.dll": "sha256-fa5PAdsmzi6B6huGNozIt2IYWkZbpT\/ARhzl4T8T7Cg="
+      "BoilerPlate.Shared.dll": "sha256-e8J8soPvUar7ORNzHG7ZxFgpt6dH\/nwlk4sS9zS5lCg=",
+      "BoilerPlate.Client.dll": "sha256-+flyAT8QrjyU6W8g4muab0mYH56majQMKxddbe\/gE0A="
     },
     "lazyAssembly": null,
     "pdb": {
-      "SmartRetail.Shared.pdb": "sha256-SINiZkKVgYFlPB1JBwKceXBNkbtb\/PeG2C+s7veoGnw=",
-      "SmartRetail.Client.pdb": "sha256-N6x34jzsa0s48bzfmXD\/bzn5OQrlz0AiOBSURka3EMk="
+      "BoilerPlate.Shared.pdb": "sha256-qYUP9NPTjyI1PB2nNLpt44NNJ7mq+9bkraOBIQOvl04=",
+      "BoilerPlate.Client.pdb": "sha256-c\/0DJBw+Uc3lEByg090Q4Cn3E5PE3kO+z1lwFy\/lwZM="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-L2vkcKzmXJtf+J7db5TbDMBckrgqJ5qc0ZzVIdRlm0I=",

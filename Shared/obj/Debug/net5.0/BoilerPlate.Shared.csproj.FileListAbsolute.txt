@@ -1,0 +1,12 @@
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\bin\Debug\net5.0\BoilerPlate.Shared.deps.json
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\bin\Debug\net5.0\BoilerPlate.Shared.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\bin\Debug\net5.0\ref\BoilerPlate.Shared.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\bin\Debug\net5.0\BoilerPlate.Shared.pdb
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.csproj.AssemblyReference.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.AssemblyInfoInputs.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.AssemblyInfo.cs
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.csproj.CoreCompileInputs.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\ref\BoilerPlate.Shared.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.pdb

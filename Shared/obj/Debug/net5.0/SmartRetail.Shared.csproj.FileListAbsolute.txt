@@ -1,12 +1,24 @@
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\bin\Debug\net5.0\SmartRetail.Shared.deps.json
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\bin\Debug\net5.0\SmartRetail.Shared.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\bin\Debug\net5.0\ref\SmartRetail.Shared.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\bin\Debug\net5.0\SmartRetail.Shared.pdb
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\obj\Debug\net5.0\SmartRetail.Shared.csproj.AssemblyReference.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\obj\Debug\net5.0\SmartRetail.Shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\obj\Debug\net5.0\SmartRetail.Shared.AssemblyInfoInputs.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\obj\Debug\net5.0\SmartRetail.Shared.AssemblyInfo.cs
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\obj\Debug\net5.0\SmartRetail.Shared.csproj.CoreCompileInputs.cache
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\obj\Debug\net5.0\SmartRetail.Shared.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\obj\Debug\net5.0\ref\SmartRetail.Shared.dll
-C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\SmartRetail\Shared\obj\Debug\net5.0\SmartRetail.Shared.pdb
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\bin\Debug\net5.0\BoilerPlate.Shared.deps.json
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\bin\Debug\net5.0\BoilerPlate.Shared.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\bin\Debug\net5.0\ref\BoilerPlate.Shared.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\bin\Debug\net5.0\BoilerPlate.Shared.pdb
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.csproj.AssemblyReference.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.AssemblyInfoInputs.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.AssemblyInfo.cs
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.csproj.CoreCompileInputs.cache
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\obj\Debug\net5.0\ref\BoilerPlate.Shared.dll
+C:\Users\spiderock\OneDrive - IT Software\Jobs\VIOT\BoilerPlate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.pdb
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\bin\Debug\net5.0\BoilerPlate.Shared.deps.json
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\bin\Debug\net5.0\BoilerPlate.Shared.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\bin\Debug\net5.0\ref\BoilerPlate.Shared.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\bin\Debug\net5.0\BoilerPlate.Shared.pdb
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.csproj.AssemblyReference.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.AssemblyInfoInputs.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.AssemblyInfo.cs
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.csproj.CoreCompileInputs.cache
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\ref\BoilerPlate.Shared.dll
+D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\obj\Debug\net5.0\BoilerPlate.Shared.pdb

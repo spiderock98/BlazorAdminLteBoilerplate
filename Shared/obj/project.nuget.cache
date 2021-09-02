@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WXhDAK/QAqXByYG+1j5bCN8TkY8NJgoPvwzCB805VjgqYjk1yQzm7dqartAZrNZG0Zh/QW0emIGVoZgIrCno5g==",
+  "dgSpecHash": "KZMylVzw2xlQSxuy8C998JyeUUiflozBoOuPi0ok5VH0uAeQ8CzeFNZQ3294xFNJaqRWA87KATyP4vGBrcZDbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Shared\\SmartRetail.Shared.csproj",
+  "projectFilePath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

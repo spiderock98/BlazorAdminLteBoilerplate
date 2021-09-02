@@ -1,6 +1,6 @@
 {
-  "name": "SmartRetail",
-  "short_name": "SmartRetail",
+  "name": "BoilerPlate",
+  "short_name": "BoilerPlate",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",

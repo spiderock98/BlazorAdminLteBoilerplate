@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SmartRetail.Client
+namespace BoilerPlate.Client
 {
     public class Program
     {

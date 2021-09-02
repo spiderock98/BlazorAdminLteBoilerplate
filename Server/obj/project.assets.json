@@ -315,29 +315,29 @@
           "lib/net5.0/System.Net.Http.Json.dll": {}
         }
       },
-      "SmartRetail.Client/1.0.0": {
+      "BoilerPlate.Client/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "BoilerPlate.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "5.0.9",
-          "SmartRetail.Shared": "1.0.0",
           "System.Net.Http.Json": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/SmartRetail.Client.dll": {}
+          "bin/placeholder/BoilerPlate.Client.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SmartRetail.Client.dll": {}
+          "bin/placeholder/BoilerPlate.Client.dll": {}
         }
       },
-      "SmartRetail.Shared/1.0.0": {
+      "BoilerPlate.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/SmartRetail.Shared.dll": {}
+          "bin/placeholder/BoilerPlate.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SmartRetail.Shared.dll": {}
+          "bin/placeholder/BoilerPlate.Shared.dll": {}
         }
       }
     }
@@ -855,38 +855,38 @@
         "version.txt"
       ]
     },
-    "SmartRetail.Client/1.0.0": {
+    "BoilerPlate.Client/1.0.0": {
       "type": "project",
-      "path": "../Client/SmartRetail.Client.csproj",
-      "msbuildProject": "../Client/SmartRetail.Client.csproj"
+      "path": "../Client/BoilerPlate.Client.csproj",
+      "msbuildProject": "../Client/BoilerPlate.Client.csproj"
     },
-    "SmartRetail.Shared/1.0.0": {
+    "BoilerPlate.Shared/1.0.0": {
       "type": "project",
-      "path": "../Shared/SmartRetail.Shared.csproj",
-      "msbuildProject": "../Shared/SmartRetail.Shared.csproj"
+      "path": "../Shared/BoilerPlate.Shared.csproj",
+      "msbuildProject": "../Shared/BoilerPlate.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Microsoft.AspNetCore.Components.WebAssembly.Server >= 5.0.9",
-      "SmartRetail.Client >= 1.0.0",
-      "SmartRetail.Shared >= 1.0.0"
+      "BoilerPlate.Client >= 1.0.0",
+      "BoilerPlate.Shared >= 1.0.0",
+      "Microsoft.AspNetCore.Components.WebAssembly.Server >= 5.0.9"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\spiderock\\.nuget\\packages\\": {}
+    "C:\\Users\\spiderock98\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Server\\SmartRetail.Server.csproj",
-      "projectName": "SmartRetail.Server",
-      "projectPath": "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Server\\SmartRetail.Server.csproj",
-      "packagesPath": "C:\\Users\\spiderock\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Server\\obj\\",
+      "projectUniqueName": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Server\\BoilerPlate.Server.csproj",
+      "projectName": "BoilerPlate.Server",
+      "projectPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Server\\BoilerPlate.Server.csproj",
+      "packagesPath": "C:\\Users\\spiderock98\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\spiderock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\spiderock98\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -900,11 +900,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Client\\SmartRetail.Client.csproj": {
-              "projectPath": "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Client\\SmartRetail.Client.csproj"
+            "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Client\\BoilerPlate.Client.csproj": {
+              "projectPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Client\\BoilerPlate.Client.csproj"
             },
-            "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Shared\\SmartRetail.Shared.csproj": {
-              "projectPath": "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Shared\\SmartRetail.Shared.csproj"
+            "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj": {
+              "projectPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj"
             }
           }
         }

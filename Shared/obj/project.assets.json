@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\spiderock\\.nuget\\packages\\": {}
+    "C:\\Users\\spiderock98\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Shared\\SmartRetail.Shared.csproj",
-      "projectName": "SmartRetail.Shared",
-      "projectPath": "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Shared\\SmartRetail.Shared.csproj",
-      "packagesPath": "C:\\Users\\spiderock\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spiderock\\OneDrive - IT Software\\Jobs\\VIOT\\SmartRetail\\Shared\\obj\\",
+      "projectUniqueName": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj",
+      "projectName": "BoilerPlate.Shared",
+      "projectPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj",
+      "packagesPath": "C:\\Users\\spiderock98\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\spiderock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\spiderock98\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
