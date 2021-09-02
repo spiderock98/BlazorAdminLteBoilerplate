@@ -90,6 +90,26 @@ using BoilerPlate.Client.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 611 "D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Client\Pages\Home.razor"
+      
+    protected override async Task OnInitializedAsync()
+    {
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender)
+        {
+            return;
+        }
+        JSHelper.InvokeVoidAsync("initDemo");
+    }
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JSHelper { get; set; }
     }
 }
 #pragma warning restore 1591

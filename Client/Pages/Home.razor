@@ -1,5 +1,7 @@
 ﻿@page "/"
 
+@inject IJSRuntime JSHelper
+
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <div class="content-header">
@@ -605,3 +607,18 @@
       </section>
       <!-- /.content -->
 </div>
+
+@code{
+    protected override async Task OnInitializedAsync()
+    {
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender)
+        {
+            return;
+        }
+        JSHelper.InvokeVoidAsync("initDemo");
+    }
+}

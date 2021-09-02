@@ -196,12 +196,12 @@
       "netstandard.dll": "sha256-yOOty6BTX3e57YAEHK5a4nku\/lj0vi7jg\/eQZAjbDQk=",
       "System.Private.CoreLib.dll": "sha256-rraBQp6NevIQiELPVfDFDl5pv9QVJqCiZhB5bkpiZ88=",
       "BoilerPlate.Shared.dll": "sha256-e8J8soPvUar7ORNzHG7ZxFgpt6dH\/nwlk4sS9zS5lCg=",
-      "BoilerPlate.Client.dll": "sha256-+flyAT8QrjyU6W8g4muab0mYH56majQMKxddbe\/gE0A="
+      "BoilerPlate.Client.dll": "sha256-qJqUfWyYhL2DcmUyG78LRwDtYoCjM0ZVgmYLAiQ0elE="
     },
     "lazyAssembly": null,
     "pdb": {
       "BoilerPlate.Shared.pdb": "sha256-qYUP9NPTjyI1PB2nNLpt44NNJ7mq+9bkraOBIQOvl04=",
-      "BoilerPlate.Client.pdb": "sha256-c\/0DJBw+Uc3lEByg090Q4Cn3E5PE3kO+z1lwFy\/lwZM="
+      "BoilerPlate.Client.pdb": "sha256-bATJcjLt8+nbkOZYmAkM3Kpq7A7Oytm82Lq6UgVviP8="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-L2vkcKzmXJtf+J7db5TbDMBckrgqJ5qc0ZzVIdRlm0I=",

@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-OnaBl9ZCodEq2CRUuTL5j7o4D29FVBG9Cmp\/7eHHWUI=",
+      "hash": "sha256-r2ojdkt8z6d7w9Hn1qcwfuBcwy8Nj2uuLdLuBCgJAhQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -793,11 +793,11 @@
       "url": "_framework\/BoilerPlate.Shared.pdb"
     },
     {
-      "hash": "sha256-+flyAT8QrjyU6W8g4muab0mYH56majQMKxddbe\/gE0A=",
+      "hash": "sha256-qJqUfWyYhL2DcmUyG78LRwDtYoCjM0ZVgmYLAiQ0elE=",
       "url": "_framework\/BoilerPlate.Client.dll"
     },
     {
-      "hash": "sha256-c\/0DJBw+Uc3lEByg090Q4Cn3E5PE3kO+z1lwFy\/lwZM=",
+      "hash": "sha256-bATJcjLt8+nbkOZYmAkM3Kpq7A7Oytm82Lq6UgVviP8=",
       "url": "_framework\/BoilerPlate.Client.pdb"
     },
     {
@@ -9489,7 +9489,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-eVC6oHwkX\/iyQXdebJqgy37k8x+cLadm8iXpfSveHd8=",
+      "hash": "sha256-AhGWuYlX\/XzHgTe5frtOXvoP0IOfn6o76d7\/0\/9ekjY=",
       "url": "index.html"
     },
     {
@@ -9497,7 +9497,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "hash": "sha256-Av4q2Gr2ux\/hwf2SzgLgFZejyQoU7iHBDCOmF4oEgMk=",
       "url": "scripts\/interop.js"
     },
     {
@@ -9509,5 +9509,5 @@
       "url": "BoilerPlate.Client.bundle.scp.css"
     }
   ],
-  "version": "VQ+l7+Cr"
+  "version": "HJ+qNnK\/"
 };
