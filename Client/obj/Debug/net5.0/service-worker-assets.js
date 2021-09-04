@@ -1,8 +1,12 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-r2ojdkt8z6d7w9Hn1qcwfuBcwy8Nj2uuLdLuBCgJAhQ=",
+      "hash": "sha256-4L0ho8gPvqYV2ng05\/Whlh0olE\/Y5XiMX\/7LohVEtsY=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-gWqxqdNWccOfJcbLM+dhjMNj1xkEDo+YNJiZkDQnEGs=",
+      "url": "_framework\/DnsClient.dll"
     },
     {
       "hash": "sha256-K6YmoZTchDdcMLTUQuvOLzigs5YvS4pdIZ1EMnSPnyg=",
@@ -91,6 +95,30 @@
     {
       "hash": "sha256-qCntZAfBCtfByp1bUyV5HBcJpgteCGZZ1pMzH5kVDnE=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "hash": "sha256-XpxaJuFc3kx11xy05yFfG813AUj9XVSAiqDBnGBnOaI=",
+      "url": "_framework\/MongoDB.Bson.dll"
+    },
+    {
+      "hash": "sha256-1x55hnlWqjPlP\/Y9fyq\/7BBTiQFDe+R4jhM\/nKRrtmQ=",
+      "url": "_framework\/MongoDB.Driver.dll"
+    },
+    {
+      "hash": "sha256-VEDLg\/2n1rlBVeSz4y+SWIfuyaXsRmp4Kk+pFTU\/lUw=",
+      "url": "_framework\/MongoDB.Driver.Core.dll"
+    },
+    {
+      "hash": "sha256-GkdgksKzzMqkQjcwBrNYTyoHQcsUuT6rMRGR\/0YST44=",
+      "url": "_framework\/MongoDB.Libmongocrypt.dll"
+    },
+    {
+      "hash": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
+      "url": "_framework\/Newtonsoft.Json.dll"
+    },
+    {
+      "hash": "sha256-\/LU0iM3EOR7E20FEpCe4ZtmZIk0C\/UA+gWuSsB2ey5A=",
+      "url": "_framework\/SharpCompress.dll"
     },
     {
       "hash": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
@@ -785,24 +813,28 @@
       "url": "_framework\/dotnet.5.0.9.js"
     },
     {
-      "hash": "sha256-e8J8soPvUar7ORNzHG7ZxFgpt6dH\/nwlk4sS9zS5lCg=",
+      "hash": "sha256-ST3PIDilqV7j\/2FaMwmkanyHNM\/IoN3gXWLbyvHZPhE=",
       "url": "_framework\/BoilerPlate.Shared.dll"
     },
     {
-      "hash": "sha256-qYUP9NPTjyI1PB2nNLpt44NNJ7mq+9bkraOBIQOvl04=",
+      "hash": "sha256-q\/I0QB+k5vqcvT1pU2g8SzxcLKlz6TTN35MCaTlmQYI=",
       "url": "_framework\/BoilerPlate.Shared.pdb"
     },
     {
-      "hash": "sha256-qJqUfWyYhL2DcmUyG78LRwDtYoCjM0ZVgmYLAiQ0elE=",
+      "hash": "sha256-uFZbt8K0mpOMRdykyK6OnmblOVRkJJD3nGF5GxGHlkY=",
       "url": "_framework\/BoilerPlate.Client.dll"
     },
     {
-      "hash": "sha256-bATJcjLt8+nbkOZYmAkM3Kpq7A7Oytm82Lq6UgVviP8=",
+      "hash": "sha256-RI37Hl+hB\/AiGgSbYWyD8XMPEIY0C5NsUWgL+7p5\/1M=",
       "url": "_framework\/BoilerPlate.Client.pdb"
     },
     {
       "hash": "sha256-dl8FVRvWOJfOtzIC\/x66QNnBNsT9cAOMrn22GB8fJ8U=",
       "url": "_framework\/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-GU5w8IyuAlE+3iXuYwFKK1D8aFWeAY8hrBYm88sUo2g=",
+      "url": "_framework\/DnsClient.dll.gz"
     },
     {
       "hash": "sha256-N0LkXwk6\/9Rx\/HmgjB44Z7WU8+SKiC+QqbMxalSOQeg=",
@@ -891,6 +923,30 @@
     {
       "hash": "sha256-nmpMmEB55LURtieRNe6Jdpy1qbLQio9jfnZzsQ1tqZ8=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll.gz"
+    },
+    {
+      "hash": "sha256-n8KkC0Ofy4o5dMJNy7rnhN3\/wpS3XdbPaX02a\/nhHJw=",
+      "url": "_framework\/MongoDB.Bson.dll.gz"
+    },
+    {
+      "hash": "sha256-C3w3E7\/pkHZJIK39w\/DH663MQBE2eZz5Pqkqkaf2Wgw=",
+      "url": "_framework\/MongoDB.Driver.dll.gz"
+    },
+    {
+      "hash": "sha256-Un9GYbJPHp1KD5+i24qgv0fc4vgolNFd0YKjethp2rc=",
+      "url": "_framework\/MongoDB.Driver.Core.dll.gz"
+    },
+    {
+      "hash": "sha256-YK5WJTQa6Qz3IRWJ7zgOrAdeznUxlx9vb8MSQINcbPA=",
+      "url": "_framework\/MongoDB.Libmongocrypt.dll.gz"
+    },
+    {
+      "hash": "sha256-dnh+NOlVLVPDt\/7o1z+6yeufEse+5\/QWBcLdc\/qmjCo=",
+      "url": "_framework\/Newtonsoft.Json.dll.gz"
+    },
+    {
+      "hash": "sha256-u8mM89E7sO0+jG10yLkpPJcR4Rht9ShX5vZU+6pLU1Q=",
+      "url": "_framework\/SharpCompress.dll.gz"
     },
     {
       "hash": "sha256-bKUyqPBN97RAML0EFDOqEqLzHp6KbO5DKcF0CX\/cmSU=",
@@ -1585,7 +1641,7 @@
       "url": "_framework\/dotnet.5.0.9.js.gz"
     },
     {
-      "hash": "sha256-KuTQ4vx3qnoaOrjlbtRkEmRl\/AvQ+TwKMqs6a5oGwwY=",
+      "hash": "sha256-2RuROozL9IAme\/pc+Wv7nK+pe5l+ti\/Y87Q+2TXiVTc=",
       "url": "_framework\/BoilerPlate.Shared.dll.gz"
     },
     {
@@ -9509,5 +9565,5 @@
       "url": "BoilerPlate.Client.bundle.scp.css"
     }
   ],
-  "version": "HJ+qNnK\/"
+  "version": "xgTl+zdl"
 };

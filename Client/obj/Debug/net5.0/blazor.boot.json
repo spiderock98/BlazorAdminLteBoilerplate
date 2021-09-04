@@ -7,6 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "DnsClient.dll": "sha256-gWqxqdNWccOfJcbLM+dhjMNj1xkEDo+YNJiZkDQnEGs=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-K6YmoZTchDdcMLTUQuvOLzigs5YvS4pdIZ1EMnSPnyg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-\/Xgh7C+kOz7PYylH+p+R7aqOBEOyYmXmOXOCgsvtcs4=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-\/BAyu\/mUbmaw+l8ZTxpnapsydH6MfD3Y+wXAzeSB5sI=",
@@ -29,6 +30,12 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-f2PgoftqEkKRuuiAk6S1MHygOuqZBHzB0HOB3vR93TU=",
       "Microsoft.JSInterop.dll": "sha256-E3wWpdYhb0k2rxsSxtLYNRv652Vqa4jD10tJ7YcHMfU=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-qCntZAfBCtfByp1bUyV5HBcJpgteCGZZ1pMzH5kVDnE=",
+      "MongoDB.Bson.dll": "sha256-XpxaJuFc3kx11xy05yFfG813AUj9XVSAiqDBnGBnOaI=",
+      "MongoDB.Driver.dll": "sha256-1x55hnlWqjPlP\/Y9fyq\/7BBTiQFDe+R4jhM\/nKRrtmQ=",
+      "MongoDB.Driver.Core.dll": "sha256-VEDLg\/2n1rlBVeSz4y+SWIfuyaXsRmp4Kk+pFTU\/lUw=",
+      "MongoDB.Libmongocrypt.dll": "sha256-GkdgksKzzMqkQjcwBrNYTyoHQcsUuT6rMRGR\/0YST44=",
+      "Newtonsoft.Json.dll": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
+      "SharpCompress.dll": "sha256-\/LU0iM3EOR7E20FEpCe4ZtmZIk0C\/UA+gWuSsB2ey5A=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
       "Microsoft.CSharp.dll": "sha256-twUgoMqRCjMxtXUIYt\/QO2nXdwn36f5Nz240MccEpOQ=",
       "Microsoft.VisualBasic.Core.dll": "sha256-RUn00o3YkpuvHph4uivfeOWDNhB7YxKW6e9szvw225k=",
@@ -195,13 +202,13 @@
       "mscorlib.dll": "sha256-9AZ7YsJz\/p2gr4E0EQXdHBqwDxoXqtzxhqC6aRsa2K8=",
       "netstandard.dll": "sha256-yOOty6BTX3e57YAEHK5a4nku\/lj0vi7jg\/eQZAjbDQk=",
       "System.Private.CoreLib.dll": "sha256-rraBQp6NevIQiELPVfDFDl5pv9QVJqCiZhB5bkpiZ88=",
-      "BoilerPlate.Shared.dll": "sha256-e8J8soPvUar7ORNzHG7ZxFgpt6dH\/nwlk4sS9zS5lCg=",
-      "BoilerPlate.Client.dll": "sha256-qJqUfWyYhL2DcmUyG78LRwDtYoCjM0ZVgmYLAiQ0elE="
+      "BoilerPlate.Shared.dll": "sha256-ST3PIDilqV7j\/2FaMwmkanyHNM\/IoN3gXWLbyvHZPhE=",
+      "BoilerPlate.Client.dll": "sha256-uFZbt8K0mpOMRdykyK6OnmblOVRkJJD3nGF5GxGHlkY="
     },
     "lazyAssembly": null,
     "pdb": {
-      "BoilerPlate.Shared.pdb": "sha256-qYUP9NPTjyI1PB2nNLpt44NNJ7mq+9bkraOBIQOvl04=",
-      "BoilerPlate.Client.pdb": "sha256-bATJcjLt8+nbkOZYmAkM3Kpq7A7Oytm82Lq6UgVviP8="
+      "BoilerPlate.Shared.pdb": "sha256-q\/I0QB+k5vqcvT1pU2g8SzxcLKlz6TTN35MCaTlmQYI=",
+      "BoilerPlate.Client.pdb": "sha256-RI37Hl+hB\/AiGgSbYWyD8XMPEIY0C5NsUWgL+7p5\/1M="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-L2vkcKzmXJtf+J7db5TbDMBckrgqJ5qc0ZzVIdRlm0I=",

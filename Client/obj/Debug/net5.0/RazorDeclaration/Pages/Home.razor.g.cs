@@ -91,7 +91,7 @@ using BoilerPlate.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 611 "D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Client\Pages\Home.razor"
+#line 610 "D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Client\Pages\Home.razor"
       
     protected override async Task OnInitializedAsync()
     {
