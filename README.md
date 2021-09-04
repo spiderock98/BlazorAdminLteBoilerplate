@@ -4,7 +4,7 @@ This project is following [this artical](https://www.freecodecamp.org/news/how-t
 
 ## Gallery
 
-![screenshot](Shared\public\img\2021-09-02_151324.png)
+![screenshot](Shared/public/img/2021-09-02_151324.png)
 
 ## Credits
 
