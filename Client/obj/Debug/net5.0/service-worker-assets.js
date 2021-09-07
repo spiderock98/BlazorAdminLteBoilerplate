@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-4L0ho8gPvqYV2ng05\/Whlh0olE\/Y5XiMX\/7LohVEtsY=",
+      "hash": "sha256-ceav1qg9G3TnUbV+EfFZXUB1xf8Law5R1YyN+i9PH\/Q=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -813,20 +813,20 @@
       "url": "_framework\/dotnet.5.0.9.js"
     },
     {
-      "hash": "sha256-ST3PIDilqV7j\/2FaMwmkanyHNM\/IoN3gXWLbyvHZPhE=",
-      "url": "_framework\/BoilerPlate.Shared.dll"
+      "hash": "sha256-+erQram\/kB36ZsXpMADKhHMJQUb6uMLi3sqSToDETHo=",
+      "url": "_framework\/MES.Shared.dll"
     },
     {
-      "hash": "sha256-q\/I0QB+k5vqcvT1pU2g8SzxcLKlz6TTN35MCaTlmQYI=",
-      "url": "_framework\/BoilerPlate.Shared.pdb"
+      "hash": "sha256-D4wmSUItuAD55KyUjvn\/XnOkrvyZUD7god0LRqRtsrM=",
+      "url": "_framework\/MES.Shared.pdb"
     },
     {
-      "hash": "sha256-uFZbt8K0mpOMRdykyK6OnmblOVRkJJD3nGF5GxGHlkY=",
-      "url": "_framework\/BoilerPlate.Client.dll"
+      "hash": "sha256-RHop3i3byQYgRuanj5H2V2sH8CipNrFnald3oMjX2So=",
+      "url": "_framework\/MES.Client.dll"
     },
     {
-      "hash": "sha256-RI37Hl+hB\/AiGgSbYWyD8XMPEIY0C5NsUWgL+7p5\/1M=",
-      "url": "_framework\/BoilerPlate.Client.pdb"
+      "hash": "sha256-70TJMcB4jn1l2XVVTumc4Zs4Hbt3PKaW6K4GW+4Vfq8=",
+      "url": "_framework\/MES.Client.pdb"
     },
     {
       "hash": "sha256-dl8FVRvWOJfOtzIC\/x66QNnBNsT9cAOMrn22GB8fJ8U=",
@@ -1641,15 +1641,15 @@
       "url": "_framework\/dotnet.5.0.9.js.gz"
     },
     {
-      "hash": "sha256-2RuROozL9IAme\/pc+Wv7nK+pe5l+ti\/Y87Q+2TXiVTc=",
-      "url": "_framework\/BoilerPlate.Shared.dll.gz"
+      "hash": "sha256-ufrq6zMmUkAEuXjiNWunZPs8Gb23ERJwsKXJQ\/Zv0jQ=",
+      "url": "_framework\/MES.Shared.dll.gz"
     },
     {
       "hash": "sha256-RhREXjs6OYfqreBjQ26t8r72Wjy35V43\/PAdgMVcNMU=",
       "url": "AdminLte\/dist\/css\/adminlte.css"
     },
     {
-      "hash": "sha256-7vQi0e5gEydOHWkp8wwebCMCV6ZR2bcphyrWFb5juQ0=",
+      "hash": "sha256-YI\/h6jtn762\/Ps0BOMo8YRlVE0LpSlZI3ggiMFkKhUE=",
       "url": "AdminLte\/dist\/css\/adminlte.css.map"
     },
     {
@@ -1657,7 +1657,7 @@
       "url": "AdminLte\/dist\/css\/adminlte.min.css"
     },
     {
-      "hash": "sha256-T6PiptRRX4rmQ8gaVvBje1D1XatGOlPhu5YOpyF5ek4=",
+      "hash": "sha256-jwmL9HIMwqKC23DFtcRVJMkUT\/HkBi\/wfkTsJdmZDbQ=",
       "url": "AdminLte\/dist\/css\/adminlte.min.css.map"
     },
     {
@@ -1681,7 +1681,7 @@
       "url": "AdminLte\/dist\/css\/alt\/adminlte.core.css"
     },
     {
-      "hash": "sha256-261iEXfLP1Y4TY9737Ml+wrO3EWU0hvA5n66nEFpTik=",
+      "hash": "sha256-I0W\/gzRAyutOo\/FP735tDyKB3RJnHcRcy5r1X2kviYY=",
       "url": "AdminLte\/dist\/css\/alt\/adminlte.core.css.map"
     },
     {
@@ -1689,7 +1689,7 @@
       "url": "AdminLte\/dist\/css\/alt\/adminlte.core.min.css"
     },
     {
-      "hash": "sha256-gmhX+GnECm\/hEZT2YXE730HotP\/B1ngR69\/cyO8A2A8=",
+      "hash": "sha256-nvSuxAnWmQhEzmoarxda\/sBVncv9J8eTgaszUkoJdwg=",
       "url": "AdminLte\/dist\/css\/alt\/adminlte.core.min.css.map"
     },
     {
@@ -9497,7 +9497,7 @@
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
-      "hash": "sha256-xMZ0SaSBYZSHVjFdZTAT\/IjRExRIxSriWcJLcA9nkj0=",
+      "hash": "sha256-iZGQh+69u6ZUIEN8iWeIlEWwyrv+RGZuPTeM02uOIJo=",
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
@@ -9545,11 +9545,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-AhGWuYlX\/XzHgTe5frtOXvoP0IOfn6o76d7\/0\/9ekjY=",
+      "hash": "sha256-xf4QSLHNl8ZO0Yxcyjy+WG6MlkeFlIBMlaGgw7ZRSe8=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-8TPw+0+2puRS\/aXzIkrKEfTP\/+7YP6nv2nEYYiq\/AVs=",
+      "hash": "sha256-TMSNAiK7QWka82ArCdnG1dOtccfXz8\/X5ny4pcFF1mI=",
       "url": "manifest.json"
     },
     {
@@ -9558,12 +9558,12 @@
     },
     {
       "hash": "sha256-fB7+NaMgUhYkQd0rFTQbVbKBJBBFqBQeszD6Ae8VCZc=",
-      "url": "BoilerPlate.Client.styles.css"
+      "url": "MES.Client.styles.css"
     },
     {
       "hash": "sha256-KoGygy6PNRQouNmcEZIiDWEXHXe8GrRTjS6gl\/22mfg=",
-      "url": "BoilerPlate.Client.bundle.scp.css"
+      "url": "MES.Client.bundle.scp.css"
     }
   ],
-  "version": "xgTl+zdl"
+  "version": "HXU2J6RH"
 };

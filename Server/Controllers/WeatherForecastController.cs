@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using BoilerPlate.Shared;
+using MES.Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BoilerPlate.Server.Controllers
+namespace MES.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

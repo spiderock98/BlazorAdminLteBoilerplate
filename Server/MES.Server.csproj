@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Client\BoilerPlate.Client.csproj" />
-    <ProjectReference Include="..\Shared\BoilerPlate.Shared.csproj" />
+    <ProjectReference Include="..\Client\MES.Client.csproj" />
+    <ProjectReference Include="..\Shared\MES.Shared.csproj" />
   </ItemGroup>
 
 

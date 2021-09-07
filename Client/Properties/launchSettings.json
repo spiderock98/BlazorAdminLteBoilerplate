@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BoilerPlate": {
+    "MES": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

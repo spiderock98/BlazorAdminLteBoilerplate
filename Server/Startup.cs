@@ -6,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
 
-namespace BoilerPlate.Server
+namespace MES.Server
 {
     public class Startup
     {

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BoilerPlate.Shared.Models
+namespace MES.Shared.Models
 {
     public class EmployeeDBContext
     {

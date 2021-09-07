@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BoilerPlate.Shared
+namespace MES.Shared
 {
     public class WeatherForecast
     {

@@ -490,33 +490,33 @@
           }
         }
       },
-      "BoilerPlate.Client/1.0.0": {
+      "MES.Client/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "BoilerPlate.Shared": "1.0.0",
+          "MES.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "5.0.9",
           "Newtonsoft.Json": "13.0.1",
           "System.Net.Http.Json": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/BoilerPlate.Client.dll": {}
+          "bin/placeholder/MES.Client.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BoilerPlate.Client.dll": {}
+          "bin/placeholder/MES.Client.dll": {}
         }
       },
-      "BoilerPlate.Shared/1.0.0": {
+      "MES.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "MongoDB.Driver": "2.13.1"
         },
         "compile": {
-          "bin/placeholder/BoilerPlate.Shared.dll": {}
+          "bin/placeholder/MES.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BoilerPlate.Shared.dll": {}
+          "bin/placeholder/MES.Shared.dll": {}
         }
       }
     }
@@ -1332,21 +1332,21 @@
         "version.txt"
       ]
     },
-    "BoilerPlate.Client/1.0.0": {
+    "MES.Client/1.0.0": {
       "type": "project",
-      "path": "../Client/BoilerPlate.Client.csproj",
-      "msbuildProject": "../Client/BoilerPlate.Client.csproj"
+      "path": "../Client/MES.Client.csproj",
+      "msbuildProject": "../Client/MES.Client.csproj"
     },
-    "BoilerPlate.Shared/1.0.0": {
+    "MES.Shared/1.0.0": {
       "type": "project",
-      "path": "../Shared/BoilerPlate.Shared.csproj",
-      "msbuildProject": "../Shared/BoilerPlate.Shared.csproj"
+      "path": "../Shared/MES.Shared.csproj",
+      "msbuildProject": "../Shared/MES.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "BoilerPlate.Client >= 1.0.0",
-      "BoilerPlate.Shared >= 1.0.0",
+      "MES.Client >= 1.0.0",
+      "MES.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 5.0.9"
     ]
   },
@@ -1356,11 +1356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Server\\BoilerPlate.Server.csproj",
-      "projectName": "BoilerPlate.Server",
-      "projectPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Server\\BoilerPlate.Server.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Server\\MES.Server.csproj",
+      "projectName": "MES.Server",
+      "projectPath": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Server\\MES.Server.csproj",
       "packagesPath": "C:\\Users\\spiderock98\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Server\\obj\\",
+      "outputPath": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spiderock98\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1377,11 +1377,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Client\\BoilerPlate.Client.csproj": {
-              "projectPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Client\\BoilerPlate.Client.csproj"
+            "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Client\\MES.Client.csproj": {
+              "projectPath": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Client\\MES.Client.csproj"
             },
-            "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj": {
-              "projectPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj"
+            "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Shared\\MES.Shared.csproj": {
+              "projectPath": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Shared\\MES.Shared.csproj"
             }
           }
         }

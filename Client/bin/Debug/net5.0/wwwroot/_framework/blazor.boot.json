@@ -2,7 +2,7 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": true,
-  "entryAssembly": "BoilerPlate.Client",
+  "entryAssembly": "MES.Client",
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -202,13 +202,13 @@
       "mscorlib.dll": "sha256-9AZ7YsJz\/p2gr4E0EQXdHBqwDxoXqtzxhqC6aRsa2K8=",
       "netstandard.dll": "sha256-yOOty6BTX3e57YAEHK5a4nku\/lj0vi7jg\/eQZAjbDQk=",
       "System.Private.CoreLib.dll": "sha256-rraBQp6NevIQiELPVfDFDl5pv9QVJqCiZhB5bkpiZ88=",
-      "BoilerPlate.Shared.dll": "sha256-ST3PIDilqV7j\/2FaMwmkanyHNM\/IoN3gXWLbyvHZPhE=",
-      "BoilerPlate.Client.dll": "sha256-uFZbt8K0mpOMRdykyK6OnmblOVRkJJD3nGF5GxGHlkY="
+      "MES.Shared.dll": "sha256-+erQram\/kB36ZsXpMADKhHMJQUb6uMLi3sqSToDETHo=",
+      "MES.Client.dll": "sha256-RHop3i3byQYgRuanj5H2V2sH8CipNrFnald3oMjX2So="
     },
     "lazyAssembly": null,
     "pdb": {
-      "BoilerPlate.Shared.pdb": "sha256-q\/I0QB+k5vqcvT1pU2g8SzxcLKlz6TTN35MCaTlmQYI=",
-      "BoilerPlate.Client.pdb": "sha256-RI37Hl+hB\/AiGgSbYWyD8XMPEIY0C5NsUWgL+7p5\/1M="
+      "MES.Shared.pdb": "sha256-D4wmSUItuAD55KyUjvn\/XnOkrvyZUD7god0LRqRtsrM=",
+      "MES.Client.pdb": "sha256-70TJMcB4jn1l2XVVTumc4Zs4Hbt3PKaW6K4GW+4Vfq8="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-L2vkcKzmXJtf+J7db5TbDMBckrgqJ5qc0ZzVIdRlm0I=",

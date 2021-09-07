@@ -4,11 +4,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BoilerPlate.Server.DataAccess;
-using BoilerPlate.Shared.Models;
+using MES.Server.DataAccess;
+using MES.Shared.Models;
 
 
-namespace BoilerPlate.Server.Controllers
+namespace MES.Server.Controllers
 {
     public class EmployeeController : Controller
     {

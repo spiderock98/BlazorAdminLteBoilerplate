@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows,browser
 build_property.RootNamespace = BoilerPlate.Shared
-build_property.ProjectDir = D:\Documents\PersonalProject\BlazorAdminLteBoilerplate\Shared\
+build_property.ProjectDir = D:\OneDrive\Jobs\VIOT\MES\BlazorAdminLteBoilerplate\Shared\

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoilerPlate.Server", "Server\BoilerPlate.Server.csproj", "{7EA2FBD2-F3DD-43D2-96C9-D9EEE4F0C237}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MES.Server", "Server\MES.Server.csproj", "{7EA2FBD2-F3DD-43D2-96C9-D9EEE4F0C237}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoilerPlate.Client", "Client\BoilerPlate.Client.csproj", "{58DDD3BA-9C1F-4137-B920-69070B5B0975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MES.Client", "Client\MES.Client.csproj", "{58DDD3BA-9C1F-4137-B920-69070B5B0975}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoilerPlate.Shared", "Shared\BoilerPlate.Shared.csproj", "{E0222F4C-70DE-4FD8-A08D-2F56C8110BD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MES.Shared", "Shared\MES.Shared.csproj", "{E0222F4C-70DE-4FD8-A08D-2F56C8110BD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

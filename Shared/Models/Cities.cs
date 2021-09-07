@@ -4,7 +4,7 @@ using System.Text;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace BoilerPlate.Shared.Models
+namespace MES.Shared.Models
 {
     public class Cities
     {

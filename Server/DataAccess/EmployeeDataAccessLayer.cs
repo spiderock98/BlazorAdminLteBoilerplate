@@ -1,10 +1,10 @@
-﻿using BoilerPlate.Shared.Models;
+﻿using MES.Shared.Models;
 using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-namespace BoilerPlate.Server.DataAccess
+namespace MES.Server.DataAccess
 {
     public class EmployeeDataAccessLayer
     {

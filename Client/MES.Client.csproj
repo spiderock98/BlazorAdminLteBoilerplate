@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Shared\BoilerPlate.Shared.csproj" />
+    <ProjectReference Include="..\Shared\MES.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -5,7 +5,7 @@
 @using System.Threading.Tasks
 @using System.Net.Http
 @using System.Net.Http.Json
-@using BoilerPlate.Shared.Models
+@using MES.Shared.Models
 @using Newtonsoft.Json
 @using System.Text
 
@@ -61,22 +61,24 @@ else
                     <div class="modal-body">
                         <form>
                             <div class="form-group">
-                                <label for="Name" class="control-label">Name</label> <input for="Name"
-                                                                                            class="form-control" @bind="emp.Name" />
+                                <label for="Name" class="control-label">Name</label> <input for="Name" class="form-control"
+                            @bind="emp.Name" />
                             </div>
                             <div class="form-group">
-                                <label asp-for="Gender" class="control-label">Gender</label> <select asp-for="Gender" class="form-control" @bind="emp.Gender">
+                                <label asp-for="Gender" class="control-label">Gender</label> <select asp-for="Gender"
+                            class="form-control" @bind="emp.Gender">
                                     <option value="">-- Select Gender --</option>
                                     <option value="Male">Male</option>
                                     <option value="Female">Female</option>
                                 </select>
                             </div>
                             <div class="form-group">
-                                <label asp-for="Department" class="control-label">Department</label> <input asp-for="Department" class="form-control" @bind="emp.Department" />
+                                <label asp-for="Department" class="control-label">Department</label> <input asp-for="Department"
+                            class="form-control" @bind="emp.Department" />
                             </div>
                             <div class="form-group">
                                 <label asp-for="City" class="control-label">City</label> <select asp-for="City"
-                                                                                                 class="form-control" @bind="emp.City">
+                            class="form-control" @bind="emp.City">
                                     <option value="">-- Select City --</option> @foreach (var city in cityList)
                                     {
                                         <option value="@city.CityName">@city.CityName</option>
@@ -86,8 +88,8 @@ else
                         </form>
                     </div>
                     <div class="modal-footer">
-                        <button class="btn btn-block btn-success"
-                                @onclick="@(async () => await SaveEmployee())" data-dismiss="modal">
+                        <button class="btn btn-block btn-success" @onclick="@(async () => await SaveEmployee())"
+                    data-dismiss="modal">
                             Save
                         </button>
                     </div>
@@ -125,8 +127,8 @@ else
                         </table>
                     </div>
                     <div class="modal-footer">
-                        <button class="btn btn-danger"
-                                @onclick="@(async () => await DeleteEmployee(emp.Id))" data-dismiss="modal">
+                        <button class="btn btn-danger" @onclick="@(async () => await DeleteEmployee(emp.Id))"
+                    data-dismiss="modal">
                             YES
                         </button> <button class="btn btn-warning" @onclick="@closeModal">
                             NO

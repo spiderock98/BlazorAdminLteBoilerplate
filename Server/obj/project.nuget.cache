@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CUqk/jpPaxj8A/58Z58je7Gajc0DZJ68CuizJY4Z1n1r85t9wpmMpwC2QGSKpZBrXC221aTRniYHes5Bj7M7/Q==",
+  "dgSpecHash": "Pph9hN2iKC14Yhyy8XR7vUY+mFNwH85L7DYueI2qs26TguZ7kC9QDv59IAc1qVivtXmqhJqaweYsyBl6h8Y61g==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Server\\BoilerPlate.Server.csproj",
+  "projectFilePath": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Server\\MES.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spiderock98\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\spiderock98\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.9\\microsoft.aspnetcore.authorization.5.0.9.nupkg.sha512",

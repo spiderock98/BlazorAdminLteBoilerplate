@@ -1,6 +1,6 @@
 {
-  "name": "BoilerPlate",
-  "short_name": "BoilerPlate",
+  "name": "MES",
+  "short_name": "MES",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj": {}
+    "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj": {
+    "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj",
         "projectName": "BoilerPlate.Shared",
-        "projectPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj",
+        "projectPath": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj",
         "packagesPath": "C:\\Users\\spiderock98\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\obj\\",
+        "outputPath": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spiderock98\\AppData\\Roaming\\NuGet\\NuGet.Config",

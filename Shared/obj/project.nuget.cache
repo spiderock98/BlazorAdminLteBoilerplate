@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vZQXX3zF4KhOGJ2OX0JtL7OUGGeXEFteveAqFAFZTGdwtois+HCoR3M7IK5UeyOQIo/JzPvypx32wC2GRsBAWg==",
+  "dgSpecHash": "xbIzTCwwkq/qoGX0eaRq/gf0Z8YWfML5xAu48QCLtgLzGa2gd58OxExOpOIeLqYshFsfxtfDkch8ZhgCjLfgww==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\PersonalProject\\BlazorAdminLteBoilerplate\\Shared\\BoilerPlate.Shared.csproj",
+  "projectFilePath": "D:\\OneDrive\\Jobs\\VIOT\\MES\\BlazorAdminLteBoilerplate\\Shared\\MES.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spiderock98\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\spiderock98\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
